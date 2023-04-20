@@ -5,6 +5,7 @@ int main() {
     printf("Hi love hehe <3");
     printf("Hi, Jo!");
     printf("hi, this is fang!");
+    printf("Sana all");
     return 0;
 }
 
