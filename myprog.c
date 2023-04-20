@@ -7,6 +7,6 @@ int main() {
     printf("hi, this is fang!")
     printf("Hi dae! jessa nga kyut here")
     printf("Sana all");
-    
+    printf("Stay Pretty");
     return 0;
 }
