@@ -3,7 +3,7 @@
 int main() {
     printf("Hello, Git!\n");
     printf("Hi love hehe <3");
-
+    printf("hi, this is fang!");
     return 0;
 }
 
